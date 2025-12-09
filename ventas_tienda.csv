@@ -1,0 +1,11 @@
+id,nombre,precio,stock,categoria
+1,Camisa básica,150,20,Ropa
+2,Pantalón jeans,350,15,Ropa
+3,Tenis deportivos,899,8,Calzado
+4,Sandalias playa,199,30,Calzado
+5,Reloj digital,499,5,Accesorios
+6,Lentes de sol,299,12,Accesorios
+7,Suéter invierno,650,7,Ropa
+8,Blusa casual,220,16,Ropa
+9,Gorra negra,120,25,Accesorios
+10,Calcetas deportivas,60,50,Calzado
