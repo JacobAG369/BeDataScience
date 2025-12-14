@@ -10,3 +10,12 @@ for p in productos:
     if p["stock"] == 0:
         print("Agotado:", p["nombre"])
 
+
+
+
+
+
+def saludar(nombre):
+    print("Hola", nombre)
+
+saludar("Jimmy")

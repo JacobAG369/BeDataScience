@@ -36,3 +36,5 @@ def funcion():
 funcion()
 print("fuera:", x)
 
+
+
